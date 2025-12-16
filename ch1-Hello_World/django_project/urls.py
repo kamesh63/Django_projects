@@ -1,6 +1,14 @@
 """
 URL configuration for django_project project.
 
+Which URL goes to which function (view)
+urls.py maps URLs → views
+
+Example:
+
+/login/   → login page
+/about/   → about page
+
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/5.0/topics/http/urls/
 Examples:
