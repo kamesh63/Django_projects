@@ -1,3 +1,4 @@
+# apps.py	is	a	configuration	file	for	the	app	itself
 from django.apps import AppConfig
 
 
