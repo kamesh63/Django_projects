@@ -3,6 +3,9 @@ ASGI config for django_project project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
+asgi.py	configures	an	optional	ASGI	(Asynchronous	Server	Gateway
+Interface)	application
+
 For more information on this file, see
 https://docs.djangoproject.com/en/5.0/howto/deployment/asgi/
 """
