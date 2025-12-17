@@ -4,6 +4,9 @@ URL configuration for django_project project.
 Which URL goes to which function (view)
 urls.py maps URLs → views
 
+urls.py	tells	Django	which	pages	to	build	in	response	to	a	browser	or	URL
+request.
+
 Example:
 
 /login/   → login page
