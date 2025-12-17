@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+# The	manage.py	file	is	not	part	of	django_project	but	is	used	to	execute	various
+# Django	management	commands,	such	as	running	the	local	web	server	or	creating
+# a	new	app.
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
